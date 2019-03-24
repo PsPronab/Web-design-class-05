@@ -1,0 +1,39 @@
+p{text-align: center; color: aqua;}
+#myId{color: brown;}
+div{
+    height: 200px;
+    width: 100%;
+}
+.bg{
+    background-image: url('../images/gravel.png');
+    background-repeat: no-repeat;  /*repeat-x, repeat-y*/
+    background-position: center;  /*left bottom, right bottom, left top, right bottom*/
+    background-attachment: fixed; /*scroll*/
+}
+
+/*body{
+    background: white url('../images/gravel.png') no-repeat top;
+}
+
+.bdr{
+    border: 2px solid black;
+}*/
+
+/*div{
+    color: black;
+    border-left: 10px solid blue;
+    margin: 5px;
+    padding: 20px;
+} */
+
+.hw{
+    background-color: #ccc;
+    height: 200px;;
+    width: 100px;
+}
+
+.tx{
+    word-spacing: 3px;
+    color: black;
+    font-weight: bold;
+}
